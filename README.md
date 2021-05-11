@@ -8,7 +8,7 @@ Currently running:
 
 | Component     | Version      |
 | ------------- | ------------ |
-| macOS version | 11.3.1 (20E241 |
+| macOS version | 11.3.1 (20E241) |
 | OpenCore      | 0.6.9        |
 | BIOS version  | Q21 Ver. 02.15.00        |
 
